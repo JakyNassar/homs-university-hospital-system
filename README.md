@@ -308,4 +308,6 @@ Organizations interested in adapting the system to their specific operational re
 
 ## 🎥 Project Demo
 
-![Project Demo](https://github.com/JakyNassar/homs-university-hospital-system/raw/refs/heads/main/demo/cover.png)
+## 🎥 Project Demo
+
+[![Watch Project Demo](https://github.com/JakyNassar/homs-university-hospital-system/blob/main/demo/cover.png?raw=true)](https://drive.google.com/file/d/17hVkBBZYF-r_IRFnBtRm4_FXkCj2tkEe/view?usp=sharing)
