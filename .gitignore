@@ -1,0 +1,52 @@
+# =========================
+# Laravel Backend
+# =========================
+
+MyProject/.env
+MyProject/.env.*
+!MyProject/.env.example
+
+MyProject/vendor/
+MyProject/node_modules/
+
+MyProject/storage/*.key
+MyProject/storage/logs/*
+MyProject/storage/framework/cache/*
+MyProject/storage/framework/sessions/*
+MyProject/storage/framework/views/*
+
+MyProject/bootstrap/cache/*
+
+
+# =========================
+# React Frontend
+# =========================
+
+my-project/node_modules/
+my-project/dist/
+my-project/.env
+my-project/.env.*
+!my-project/.env.example
+
+
+# =========================
+# IDE / OS
+# =========================
+
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# Temporary files
+# =========================
+
+*.log
+*.tmp
+*.temp

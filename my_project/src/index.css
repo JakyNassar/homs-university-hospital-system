@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme {
+  --color-primary: #2281e1;
+}
+
+div.flex.justify-center.pt-\[30px\] {
+  padding-top: 0 !important;
+}
