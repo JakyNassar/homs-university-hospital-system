@@ -142,7 +142,8 @@ Laravel Backend
       |
       v
 Database
-
+```
+ذذ
 ## Project Structure
 
 The project is organized into separate frontend and backend applications:
@@ -167,6 +168,7 @@ hospital-management-system/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## Installation & Setup
 
@@ -191,37 +193,44 @@ Navigate to the Laravel backend:
 
 ```bash
 cd MyProject
+```
 
 Install PHP dependencies:
 
 ```bash
 composer install
+```
 
 Create the environment file:
 
 ```bash
 copy .env.example .env
+```
 
 Generate the Laravel application key:
 
 ```bash
 php artisan key:generate
 Configure the database connection in the `.env` file.
+```
 
 For the current application configuration:
 
 ```env
 DB_CONNECTION=sqlite
+```
 
 Run the database migrations:
 
 ```bash
 php artisan migrate
+```
 
 Start the Laravel development server:
 
 ```bash
 php artisan serve
+```
 
 . Frontend Setup
 cd my_project
