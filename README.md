@@ -308,6 +308,4 @@ Organizations interested in adapting the system to their specific operational re
 
 ## 🎥 Project Demo
 
-<a href="https://drive.google.com/file/d/17hVkBBZYF-r_IRFnBtRm4_FXkCj2tkEe/view?usp=sharing">
-  <img src="./demo/cover.png" alt="Watch Project Demo">
-</a>
+![Project Demo](./demo/cover.png)
