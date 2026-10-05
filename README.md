@@ -306,9 +306,6 @@ Request a Customized Solution
 
 Organizations interested in adapting the system to their specific operational requirements can request a customized implementation or additional features.
 
-
-## 🎥 Project Demo
-
 ## 🎥 Project Demo
 
 [![Watch Project Demo](./demo/cover.png)](https://drive.google.com/file/d/17hVkBBZYF-r_IRFnBtRm4_FXkCj2tkEe/view?usp=sharing)
